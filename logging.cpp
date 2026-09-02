@@ -1,10 +1,3 @@
-/*
- *  logging.h
- *  
- *
- * logging and debug functions
- *
- */
 
 
 #define LOG_IN_FILE  0x0001
